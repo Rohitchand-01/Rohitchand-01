@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Chand</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 # 💫 About Me:
 🌱 I’m currently learning DSA , React Native<br><br>👨‍💻 All of my projects are available at https://portfolio-rohit-chands-projects.vercel.app/<br><br>💬 Ask me about React JS ,Node JS , MERN<br><br>📫 How to reach me rohitchand010904@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1QwMU5KAaspzuC8V8RMcQbePKmHvfbecg/view?usp=sharing
