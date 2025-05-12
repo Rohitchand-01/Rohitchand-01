@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning DSA , React Native<br><br>📄 Here is my protfolio https://rohit-portfolio-chi.vercel.app/ </br><br>👨‍💻 All of my projects are available at https://github.com/Rohitchand-01?tab=repositories /<br><br>💬 Ask me about React JS ,Next JS ,Node JS , MERN<br><br>📫 How to reach me rohitchand010904@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1NWVEyXhbIrjQmh5LUOxxdWrVijfiy63d/view?usp=drive_link
+🌱 I’m currently learning DSA , React Native<br><br>📄 Here is my protfolio https://rohit-portfolio-chi.vercel.app/ </br><br>👨‍💻 All of my projects are available at https://github.com/Rohitchand-01?tab=repositories /<br><br>💬 Ask me about React JS ,Next JS ,Node JS , MERN<br><br>📫 How to reach me rohitchand010904@gmail.com<br><br>📄 Resume https://drive.google.com/file/d/1NWVEyXhbIrjQmh5LUOxxdWrVijfiy63d/view?usp=drive_link
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/halcyon.rohit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitchand01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rohit_chand_001) 
