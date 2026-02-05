@@ -34,7 +34,7 @@ I’ve shipped projects across **bookmarking platforms**, **CRM tools**, **AI-po
 | Role | Company | Period |
 |------|---------|--------|
 | **Software Developer** | [CodeFeast](https://www.codefeast.in/) | Jan 2026 – Present |
-| **Frontend Developer** | [Qrios](https://qriosx.com/) | Sept 2025 – Dec 2025 |
+| **Frontend Developer** | [QriosX](https://qriosx.com/) | Sept 2025 – Dec 2025 |
 
 *Building full-stack MERN apps, REST APIs, CI/CD with Docker & AWS, and high-performance UIs with Next.js.*
 
