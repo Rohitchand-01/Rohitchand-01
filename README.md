@@ -1,23 +1,150 @@
-<h1 align="center">Hi 👋, I'm Rohit Chand</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<div align="center">
 
+# Hi, I'm Rohit Chand
 
-# 💫 About Me:
-🌱 I’m currently learning DSA , React Native<br><br>📄 Here is my protfolio https://www.rohitworks.com/ </br><br>👨‍💻 All of my projects are available at https://github.com/Rohitchand-01?tab=repositories <br><br>💬 Ask me about React JS ,Next JS ,Node JS , MERN<br><br>📫 How to reach me rohitchand.work@gmail.com<br><br>📄 Resume https://drive.google.com/file/d/1qxhbQlNEw8Ou2UILCODXJALRhyFPuzC2/view?usp=drive_link
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/halcyon.rohit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitchand01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rohit_chand_001) 
+### Software Developer · Full-Stack & Frontend · Building scalable products
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rohitchand-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rohitchand-01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitchand-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rohitworks.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohitchand-01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitchand01/)
+[![X (Twitter)](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rohit_Chand_001)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/halcyon.rohit)
+[![Peerlist](https://img.shields.io/badge/Peerlist-00D395?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/rohitchand)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rohitchand-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rohitchand-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About me
+
+I'm a **Software Developer** focused on full-stack and frontend, with a strong emphasis on **scalable architecture**, **performance**, and **clean code**. I'm currently working at **CodeFeast**, building MERN applications and RESTful microservices that serve 1,000+ daily users.
+
+- **Location:** New Delhi, India  
+- **Education:** B.Tech in Computer Science, IIIT Sonepat (2022–2026)  
+- **Interests:** Product thinking, system design, and turning ideas into reliable software  
+
+I’ve shipped projects across **bookmarking platforms**, **CRM tools**, **AI-powered apps**, and **generative AI** (e.g. Picstone — top 5 in a Generative AI hackathon with 180K+ registrations). I enjoy leading clubs, coordinating events, and working in agile teams.
+
+**Reach me:** [rohitchand.work@gmail.com](mailto:rohitchand.work@gmail.com) · [Schedule a meeting](https://cal.com/rohit-chand-6jpzv5/60-min-meeting) · [**GitHub**](https://github.com/Rohitchand-01)
+
+---
+
+## Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **Software Developer** | [CodeFeast](https://www.codefeast.in/) | Jan 2026 – Present |
+| **Frontend Developer** | [Qrios](https://qriosx.com/) | Sept 2025 – Dec 2025 |
+
+*Building full-stack MERN apps, REST APIs, CI/CD with Docker & AWS, and high-performance UIs with Next.js.*
+
+---
+
+## Technologies
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+</p>
+<p align="center">
+  <!-- Backend & DB -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+</p>
+<p align="center">
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+---
+
+## Featured projects
+
+| Project | Description | Stack |
+|---------|-------------|--------|
+| [**LinkSaver**](https://linksaver.in) | Bookmarking & link organization with nested collections, tags, multi-profile & OAuth 2 | Bun, React, Redux, PostgreSQL, Go, Docker, JWT |
+| [**Cognize**](https://cognize.live/) | CRM for freelancers — lead management, scraper APIs (&lt;200ms), drag-and-drop UI | Bun, TypeScript, Next.js, Zustand, Go, PostgreSQL, AWS |
+| [**Picstone**](https://picstone-generative-ai.vercel.app/) | Image-to-story platform — 180K+ registrations, top 5 Generative AI hackathon | Flask, React, MySQL, Google Auto Tagging |
+| [**CustomCV**](https://customcv.vercel.app/) | AI-powered personalized cover letters per job application | TypeScript, MongoDB, Node, Express, Flask, AWS, Framer |
+
+*More on [GitHub → @Rohitchand-01](https://github.com/Rohitchand-01) · [Repositories](https://github.com/Rohitchand-01?tab=repositories) · [Portfolio](https://rohitworks.com).*
+
+---
+
+## Resume
+
+📄 **[View / download resume (PDF)](./src/assets/Rohit%20Chand%20%5BSoftware%20Developer%5D.pdf)** (in this repo)
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <a href="https://github.com/Rohitchand-01">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rohitchand-01&show_icons=true&theme=default&hide_border=true&count_private=false" alt="GitHub stats" width="48%" />
+  </a>
+  <a href="https://github.com/Rohitchand-01">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitchand-01&theme=default&hide_border=true" alt="GitHub streak" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rohitchand-01">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitchand-01&theme=default&hide_border=true&layout=compact&langs_count=8" alt="Top languages" width="48%" />
+  </a>
+  <a href="https://github.com/Rohitchand-01">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohitchand-01&theme=default&hide_border=true" alt="Contribution graph" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rohitchand-01">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rohitchand-01&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" width="100%" />
+  </a>
+</p>
+
+<details>
+<summary><b>📈 What these show</b></summary>
+
+| Card | Description |
+|------|--------------|
+| **GitHub stats** | Total stars, commits, PRs, and issues |
+| **Streak** | Current and longest contribution streak |
+| **Top languages** | Most used languages in your repos |
+| **Contribution graph** | Last 31 days of activity |
+| **Trophies** | Achievements (Pull Shark, YOLO, etc.) |
+
+</details>
+
+---
+
+<div align="center">
+
+**Open to opportunities and collaborations.**
+
+[Portfolio](https://rohitworks.com) · [GitHub](https://github.com/Rohitchand-01) · [Email](mailto:rohitchand.work@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rohitchand01/) · [Schedule a call](https://cal.com/rohit-chand-6jpzv5/60-min-meeting)
+
+</div>
