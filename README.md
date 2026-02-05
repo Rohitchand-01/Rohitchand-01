@@ -23,7 +23,7 @@ I'm a **Software Developer** focused on full-stack and frontend, with a strong e
 - **Education:** B.Tech in Computer Science, IIIT Sonepat (2022–2026)  
 - **Interests:** Product thinking, system design, and turning ideas into reliable software  
 
-I’ve shipped projects across **bookmarking platforms**, **CRM tools**, **AI-powered apps**, and **generative AI** (e.g. Picstone — top 5 in a Generative AI hackathon with 180K+ registrations). I enjoy leading clubs, coordinating events, and working in agile teams.
+I’ve shipped projects across **bookmarking platforms**, **CRM tools**, **AI-powered apps**, and **generative AI** (e.g. Picstone - top 5 in a Generative AI hackathon with 180K+ registrations). I enjoy leading clubs, coordinating events, and working in agile teams.
 
 **Reach me:** [rohitchand.work@gmail.com](mailto:rohitchand.work@gmail.com) · [Schedule a meeting](https://cal.com/rohit-chand-6jpzv5/60-min-meeting) · [**GitHub**](https://github.com/Rohitchand-01)
 
